@@ -2,7 +2,7 @@
 
 -😊Eu sou @tarsilamoura<br>
 -📚Atualmente estou estudando programação no IOS(Instituto da Oportunidade Social)<br>
--🎓Meu objetivo é entrar em uma faculdade de DIREITO<br>
+-🎓Meu objetivo é entrar em uma faculdade de Administração<br>
 -📌<samp>"Se você consegue sonhar algo, consegue realizá-lo!"</samp><br>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <div>
